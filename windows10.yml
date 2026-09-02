@@ -7,7 +7,7 @@ services:
       VERSION: "10"
       USERNAME: "pcuser"
       PASSWORD: "PcUser123!"
-      RAM_SIZE: "6G"
+      RAM_SIZE: "16G"
       CPU_CORES: "4"
 
     cap_add:
